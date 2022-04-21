@@ -1,0 +1,1 @@
+# Interfacing-of-an-IR-sensor-array-with-various-components
